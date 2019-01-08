@@ -6,8 +6,8 @@ public class StackLink
 	{
 		MyStack ms = new MyStack(5);
 		ms.push("vetrivel");
-		ms.push("weds");
-		ms.push("kanipapa");
+		ms.push("vel");
+		ms.push("viber");
 		ms.push(1112);
 		ms.push("breakup");
 		System.out.println(ms.pop());
