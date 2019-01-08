@@ -7,8 +7,8 @@ public class Queueline
 		mq.enQue(12);
 		mq.enQue(11);
 		mq.enQue("vetri");
-		mq.enQue("love");
-		mq.enQue("kanipapa");
+		mq.enQue("vel");
+		mq.enQue("viber");
 		System.out.println(mq.deque());
 		System.out.println(mq.deque());
 		System.out.println(mq.peek());
